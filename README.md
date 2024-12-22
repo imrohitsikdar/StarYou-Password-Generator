@@ -5,6 +5,6 @@
 - You can copy those passwords in your clip board.
 - Wanna copy them all? Yaah you can!
 
-Direct download link: https://github.com/imrohitsikdar/StarYou-Password-Generator/releases/download/Release/StarYou.Password_Generator.exe
+Direct download link: https://github.com/imrohitsikdar/StarYou-Password-Generator/releases/download/Release/StarYou_Password_Generator.exe
 
 Hope you liked it!
